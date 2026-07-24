@@ -5,8 +5,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivangishaurya/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shivangishaurya/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivangishaurya/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shivangishaurya/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 <!---LeetCode Topics End-->
