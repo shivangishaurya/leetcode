@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivangishaurya/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivangishaurya/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivangishaurya/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/shivangishaurya/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shivangishaurya/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Dynamic Programming
 |  |
@@ -61,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivangishaurya/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Greedy
+|  |
+| ------- |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/shivangishaurya/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
+## Sliding Window
+|  |
+| ------- |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/shivangishaurya/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
+## Prefix Sum
+|  |
+| ------- |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/shivangishaurya/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 <!---LeetCode Topics End-->
