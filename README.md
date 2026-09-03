@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivangishaurya/leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/shivangishaurya/leetcode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/shivangishaurya/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/shivangishaurya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivangishaurya/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivangishaurya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shivangishaurya/leetcode/tree/master/0645-set-mismatch) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shivangishaurya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/shivangishaurya/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 ## Stack
 |  |
