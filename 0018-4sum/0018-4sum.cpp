@@ -13,7 +13,7 @@ public:
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
 
-            for (int j = i + 1; j < n; ) {
+            for (int j = i + 1; j < n;) {
 
                 int p = j + 1, q = n - 1;
 
