@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shivangishaurya/leetcode/tree/master/0645-set-mismatch) |
 | [0962-maximum-width-ramp](https://github.com/shivangishaurya/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/shivangishaurya/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivangishaurya/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shivangishaurya/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivangishaurya/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/shivangishaurya/leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shivangishaurya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivangishaurya/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivangishaurya/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shivangishaurya/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Binary Search
 |  |
