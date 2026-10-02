@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivangishaurya/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangishaurya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/shivangishaurya/leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/shivangishaurya/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivangishaurya/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shivangishaurya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivangishaurya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivangishaurya/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shivangishaurya/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shivangishaurya/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivangishaurya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivangishaurya/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shivangishaurya/leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/shivangishaurya/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivangishaurya/leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/shivangishaurya/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivangishaurya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shivangishaurya/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shivangishaurya/leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/shivangishaurya/leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/shivangishaurya/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivangishaurya/leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/shivangishaurya/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shivangishaurya/leetcode/tree/master/0645-set-mismatch) |
@@ -192,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivangishaurya/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivangishaurya/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
