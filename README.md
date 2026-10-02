@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shivangishaurya/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shivangishaurya/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivangishaurya/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivangishaurya/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivangishaurya/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivangishaurya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/shivangishaurya/leetcode/tree/master/0454-4sum-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivangishaurya/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/shivangishaurya/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivangishaurya/leetcode/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/shivangishaurya/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shivangishaurya/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivangishaurya/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivangishaurya/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivangishaurya/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shivangishaurya/leetcode/tree/master/0645-set-mismatch) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivangishaurya/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
