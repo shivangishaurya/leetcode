@@ -9,9 +9,10 @@ public:
         }
         for (int ch : t) {
             if (mp.find(ch) == mp.end())
-           return false;
-           mp[ch]--;
-        if(mp[ch]<0) return false;
+                return false;
+            mp[ch]--;
+            if (mp[ch] < 0)
+                return false;
         }
         return true;
     }
