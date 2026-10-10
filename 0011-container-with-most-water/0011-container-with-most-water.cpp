@@ -6,8 +6,7 @@ public:
         while(i<j){
             int w=j-i;
             int h=min(height[i],height[j]);
-            int capacity=w*h;
-            maxVol=max(maxVol,capacity);
+            maxVol=max(maxVol,w*h);
             height[i]<height[j]?i++:j--;  
         }
         return maxVol;
