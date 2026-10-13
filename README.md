@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivangishaurya/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shivangishaurya/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivangishaurya/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivangishaurya/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/shivangishaurya/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shivangishaurya/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -130,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shivangishaurya/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shivangishaurya/leetcode/tree/master/0645-set-mismatch) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivangishaurya/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivangishaurya/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivangishaurya/leetcode/tree/master/0011-container-with-most-water) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/shivangishaurya/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivangishaurya/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
