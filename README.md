@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/shivangishaurya/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shivangishaurya/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivangishaurya/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shivangishaurya/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shivangishaurya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivangishaurya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/shivangishaurya/leetcode/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shivangishaurya/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/shivangishaurya/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivangishaurya/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shivangishaurya/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shivangishaurya/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivangishaurya/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivangishaurya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shivangishaurya/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/shivangishaurya/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 ## Prefix Sum
 |  |
