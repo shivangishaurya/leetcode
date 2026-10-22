@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivangishaurya/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivangishaurya/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangishaurya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/shivangishaurya/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/shivangishaurya/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shivangishaurya/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivangishaurya/leetcode/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shivangishaurya/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shivangishaurya/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangishaurya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/shivangishaurya/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivangishaurya/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1402-reducing-dishes](https://github.com/shivangishaurya/leetcode/tree/master/1402-reducing-dishes) |
