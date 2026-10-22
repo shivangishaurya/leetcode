@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivangishaurya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shivangishaurya/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shivangishaurya/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangishaurya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivangishaurya/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivangishaurya/leetcode/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivangishaurya/leetcode/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivangishaurya/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
