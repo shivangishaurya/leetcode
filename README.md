@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/shivangishaurya/leetcode/tree/master/0454-4sum-ii) |
 | [0645-set-mismatch](https://github.com/shivangishaurya/leetcode/tree/master/0645-set-mismatch) |
 | [0962-maximum-width-ramp](https://github.com/shivangishaurya/leetcode/tree/master/0962-maximum-width-ramp) |
+| [1306-jump-game-iii](https://github.com/shivangishaurya/leetcode/tree/master/1306-jump-game-iii) |
 | [1402-reducing-dishes](https://github.com/shivangishaurya/leetcode/tree/master/1402-reducing-dishes) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/shivangishaurya/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivangishaurya/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -116,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shivangishaurya/leetcode/tree/master/0112-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shivangishaurya/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1306-jump-game-iii](https://github.com/shivangishaurya/leetcode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/shivangishaurya/leetcode/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/shivangishaurya/leetcode/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1306-jump-game-iii](https://github.com/shivangishaurya/leetcode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
