@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivangishaurya/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/shivangishaurya/leetcode/tree/master/0454-4sum-ii) |
 | [0645-set-mismatch](https://github.com/shivangishaurya/leetcode/tree/master/0645-set-mismatch) |
+| [0746-min-cost-climbing-stairs](https://github.com/shivangishaurya/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0962-maximum-width-ramp](https://github.com/shivangishaurya/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1306-jump-game-iii](https://github.com/shivangishaurya/leetcode/tree/master/1306-jump-game-iii) |
 | [1402-reducing-dishes](https://github.com/shivangishaurya/leetcode/tree/master/1402-reducing-dishes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/shivangishaurya/leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivangishaurya/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/shivangishaurya/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1402-reducing-dishes](https://github.com/shivangishaurya/leetcode/tree/master/1402-reducing-dishes) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivangishaurya/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shivangishaurya/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
