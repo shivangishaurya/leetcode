@@ -1,23 +1,25 @@
 class Solution {
 public:
-    int solve(vector<int>& coins, int amount, int count, vector<int> & dp) {
-        if (amount == 0)
-            return count;
-        if(dp[amount]!=-1)return dp[amount] == INT_MAX ? INT_MAX : count + dp[amount];
-        int ans = INT_MAX;
-        for (int i = 0; i < coins.size(); i++) {
-            if (amount-coins[i] >= 0) {
-                int a=solve(coins, amount-coins[i], count+1,dp);
-                if(a!=INT_MAX)ans=min(ans,a);
+    int coinChange(vector<int>& coins, int amount) {
+
+        int m = coins.size();
+        int n = amount;
+
+        vector<vector<int>> dp(m + 1, vector<int>(n + 1, amount+1));
+
+        for (int i = 0; i <= m; i++) {
+            dp[i][0] = 0;
+        }
+
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (j < coins[i-1]) {
+                    dp[i][j] = dp[i - 1][j];
+                } else
+                    dp[i][j] = min(dp[i - 1][j], 1 + dp[i][j - coins[i - 1]]);
             }
         }
-         dp[amount] = (ans == INT_MAX) ? INT_MAX : ans - count;
-        return ans;
-    }
-    int coinChange(vector<int>& coins, int amount) {
-        vector<int>dp(amount+1,-1);
-        int a=solve(coins,amount,0,dp);
-        if(a!=INT_MAX)return a;
-        return -1;
+
+        return dp[m][n]>amount?-1:dp[m][n];
     }
 };
