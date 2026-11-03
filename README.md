@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivangishaurya/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivangishaurya/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shivangishaurya/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/shivangishaurya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivangishaurya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/shivangishaurya/leetcode/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivangishaurya/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shivangishaurya/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/shivangishaurya/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/shivangishaurya/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 ## Prefix Sum
 |  |
@@ -293,4 +295,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivangishaurya/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivangishaurya/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/shivangishaurya/leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shivangishaurya/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shivangishaurya/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shivangishaurya/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
