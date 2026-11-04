@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shivangishaurya/leetcode/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivangishaurya/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0962-maximum-width-ramp](https://github.com/shivangishaurya/leetcode/tree/master/0962-maximum-width-ramp) |
+| [0994-rotting-oranges](https://github.com/shivangishaurya/leetcode/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/shivangishaurya/leetcode/tree/master/1306-jump-game-iii) |
 | [1402-reducing-dishes](https://github.com/shivangishaurya/leetcode/tree/master/1402-reducing-dishes) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/shivangishaurya/leetcode/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/shivangishaurya/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shivangishaurya/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0994-rotting-oranges](https://github.com/shivangishaurya/leetcode/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/shivangishaurya/leetcode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivangishaurya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0994-rotting-oranges](https://github.com/shivangishaurya/leetcode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
