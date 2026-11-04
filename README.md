@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivangishaurya/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0518-coin-change-ii](https://github.com/shivangishaurya/leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivangishaurya/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/shivangishaurya/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1402-reducing-dishes](https://github.com/shivangishaurya/leetcode/tree/master/1402-reducing-dishes) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/shivangishaurya/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shivangishaurya/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivangishaurya/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/shivangishaurya/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shivangishaurya/leetcode/tree/master/0389-find-the-difference) |
+| [1143-longest-common-subsequence](https://github.com/shivangishaurya/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivangishaurya/leetcode/tree/master/0239-sliding-window-maximum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shivangishaurya/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
